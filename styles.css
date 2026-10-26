@@ -1,9 +1,12 @@
 html {
     background-color: rgb(255, 243, 211);
+    font-family: "fiona", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 code {
-    background-color: rgba(0,0,0, 0.2);
+    background-color: rgba(0,0,0, 0.1);
 }
 
 .wrapper {
